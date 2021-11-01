@@ -4,37 +4,37 @@ Monacelli, L; Bianco, R; Cherubini, M; Calandra, M; Errea, I; Mauri, F
 JOURNAL OF PHYSICS-C, 33,36,363001  
 DOI: 10.1088/1361-648X/ac066b  
 SEP 8 2021  
-2. [Collective electronic excitations in charge density wave systems: The case of CuTe](link)
+2. [Collective electronic excitations in charge density wave systems: The case of CuTe](link)  
 Cudazzo, P; Wirtz, L  
 PHYSICAL REVIEW B, 104, 12, 125101  
 DOI: 10.1103/PhysRevB.104.125101  
 SEP 1 2021  
-3. [Ab-initio energetics of graphite and multilayer graphene: stability of Bernal versus rhombohedral stacking](link)
+3. [Ab-initio energetics of graphite and multilayer graphene: stability of Bernal versus rhombohedral stacking](link)  
 Nery, JP; Calandra, M; Mauri, F 
 2D MATERIALS, 8, 3, 035006  
 DOI: 10.1088/2053-1583/abec23  
 JUL 2021 
-4. [Electronic structure of TiSe2 from a quasi-self-consistent G(0)W(0) approach](link)
+4. [Electronic structure of TiSe2 from a quasi-self-consistent G(0)W(0) approach](link)  
 Hellgren, M; Baguet, L; Calandra, M; Mauri, F; Wirtz, L 
 PHYSICAL REVIEW B, 103, 7, 075101  
 DOI: 10.1103/PhysRevB.103.075101  
 FEB 1 2021  
-5. [Time-Dependent Screening Explains the Ultrafast Excitonic Signal Rise in 2D Semiconductors](link)
+5. [Time-Dependent Screening Explains the Ultrafast Excitonic Signal Rise in 2D Semiconductors](link)  
 Smejkal, V; Libisch, F; Molina-Sanchez, A; Trovatello, C; Wirtz, L ; Marini, A  
 ACS NANO, 15, 1, 1179-1185  
 DOI: 10.1021/acsnano.0c08173  
 JAN 26 2021 
-6. [van der Waals driven anharmonic melting of the 3D charge density wave in VSe2]
+6. [van der Waals driven anharmonic melting of the 3D charge density wave in VSe2](link)  
 Diego, J; Said, AH; Mahatha, SK; Bianco, R; Monacelli, L; Calandra, M; Mauri, F; Rossnagel, K; Errea, I; Blanco-Canosa, S  
 NATURE COMMUNICATIONS, 12, 1, 598  
 DOI: 10.1038/s41467-020-20829-2  
 JAN 26 2021  
-7. [Simulating Quantum Vibronic Dynamics at Finite Temperatures With Many Body Wave Functions at 0 K](link)
+7. [Simulating Quantum Vibronic Dynamics at Finite Temperatures With Many Body Wave Functions at 0 K](link)  
 Dunnett, AJ; Chin, AW  
 FRONTIERS IN CHEMISTRY, 8, 600731  
 DOI: 10.3389/fchem.2020.600731  
 JAN 7 2021
-8. [Matrix Product State Simulations of Non-Equilibrium Steady States and Transient Heat Flows in the Two-Bath Spin-Boson Model at Finite Temperatures](link)  
+8. [Matrix Product State Simulations of Non-Equilibrium Steady States and Transient Heat Flows in the Two-Bath Spin-Boson Model at Finite Temperatures](link)    
 Author(s): Dunnett, AJ; Chin, AW   
 ENTROPY, 23, 1, 77  
 DOI: 10.3390/e23010077  
