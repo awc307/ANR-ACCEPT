@@ -5,6 +5,7 @@ This project is an intenernational collaboration (PRCI) between the [l'institut 
 ## Direction
 The PI for ACCEPT in France is Dr Alex W Chin (CNRS), who is based in the [Photonics and Coherence of Spin](https://www.insp.upmc.fr/-Photonique-et-coherence-de-spin-.html?lang=fr) (PHOCOS) group at INSP.  
 The PI for ACCEPT in Luxembourg is [Professor Ludger Wirtz](https://wwwen.uni.lu/research/fstm/dphyms/people/ludger_wirtz), who is the head of the Physics and Materials Science Research Unit at the University of Luxembourg.  
+Contact details can be found by following the links, above. 
 
 ## Mission
 The goal of the project is to go beyond the state of the art in the calculation of phononic and excitonic spectra of correlated materials. We will develop a systematic finite-difference approach to evaluate the electron-phonon coupling in solids with the inclusion of exact exchange and we will obtain non-perturbative temperature-dependent anharmonic phonon spectra via the self-consistent harmonic approximation. Through the application of real-time, finite-temperature tensor network algorithms, we will also explore the photodynamics, excitonic responses and entanglement spectra of low dimensional materials, including the often very strong coupling of optical excitations to phonons. We will apply these methods to emerging and technologically relevant materials, with a particular focus on: 
