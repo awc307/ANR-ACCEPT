@@ -14,7 +14,7 @@ Nery, JP; Calandra, M; Mauri, F
 2D MATERIALS, 8, 3, 035006  
 DOI: 10.1088/2053-1583/abec23  
 JUL 2021 
-4.1. [Electronic structure of TiSe2 from a quasi-self-consistent G(0)W(0) approach](link)
+4. [Electronic structure of TiSe2 from a quasi-self-consistent G(0)W(0) approach](link)
 Hellgren, M; Baguet, L; Calandra, M; Mauri, F; Wirtz, L 
 PHYSICAL REVIEW B, 103, 7, 075101  
 DOI: 10.1103/PhysRevB.103.075101  
