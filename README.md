@@ -9,4 +9,4 @@ The goal of the project is to go beyond the state of the art in the calculation 
 2. The optical spectra, wave functions and real-time dynamics of excitons in carbyne.
 3. The ferroelectric instability in bulk (SnTe) and single layer (SnTe) thermoelectrics, (iv) the accurate calculation of charge density wave critical temperatures in single layer and bulk TiSe2/TiTe2. 
 
-#A complete list of ACCEPT publications can be found [here](https://awc307.github.io/ANR-ACCEPT/Publications)
+# A complete list of ACCEPT publications can be found [here](https://awc307.github.io/ANR-ACCEPT/Publications)
