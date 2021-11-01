@@ -1,4 +1,4 @@
-# ANR-ACCEPT
+# AnharmoniC and exChangE interactions in Phonon specTra (ACCEPT)
 Welcome to the website for the ANR project **"AnharmoniC and exChangE interactions in Phonon specTra"** (Grant No. ANR-19-CE24-0028).  
 This project is xxxxxx 1/12/2020- 30/06/2024
 
