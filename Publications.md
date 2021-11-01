@@ -15,7 +15,7 @@ Nery, JP; Calandra, M; Mauri, F
 DOI: 10.1088/2053-1583/abec23  
 JUL 2021 
 4. [Electronic structure of TiSe2 from a quasi-self-consistent G(0)W(0) approach](link)  
-Hellgren, M; Baguet, L; Calandra, M; Mauri, F; Wirtz, L 
+Hellgren, M; Baguet, L; Calandra, M; Mauri, F; Wirtz, L   
 PHYSICAL REVIEW B, 103, 7, 075101  
 DOI: 10.1103/PhysRevB.103.075101  
 FEB 1 2021  
@@ -42,26 +42,36 @@ JAN 2021
 
 # 2020
 
-1. [Misfit Layer Compounds: A Platform for Heavily Doped 2D Transition Metal Dichalcogenides](link)  
-Leriche, RT; Palacio-Morales, A; Campetella, M; Tresca, C; Sasaki, S; Brun, C; Debontridder, F; David, P; Arfaoui, I; Sofranko, O; Samuely, T; Kremer, G; Monney, C; Jaouen, T; Cario, L; Calandra, M; Cren, T  
+1. [Misfit Layer Compounds: A Platform for Heavily Doped 2D Transition Metal Dichalcogenides](link)      
+Leriche, RT; Palacio-Morales, A; Campetella, M; Tresca, C; Sasaki, S; Brun, C; Debontridder, F; David, P; Arfaoui, I; Sofranko, O; Samuely, T; Kremer, G; Monney, C; Jaouen, T; Cario, L; Calandra, M; Cren, T      
 ADVANCED FUNCTIONAL MATERIALS, 31, 6, 2007706  
 DOI: 10.1002/adfm.202007706  
 FEB 2021  
-2. Title: Theory of the thickness dependence of the charge density wave transition in 1 T-TiTe2
-Author(s): Zhou, JS (Sky Zhou, Jianqiang); Bianco, R (Bianco, Raffaello); Monacelli, L (Monacelli, Lorenzo); Errea, I (Errea, Ion); Mauri, F (Mauri, Francesco); Calandra, M (Calandra, Matteo)
-Source: 2D MATERIALS  Volume: 7  Issue: 4  Article Number: 045032  DOI: 10.1088/2053-1583/abae7a  Published: OCT 2020  
-3. Title: Weak Dimensionality Dependence and Dominant Role of Ionic Fluctuations in the Charge-Density-Wave Transition of NbSe2
-Author(s): Bianco, R (Bianco, Raffaello); Monacelli, L (Monacelli, Lorenzo); Calandra, M (Calandra, Matteo); Mauri, F (Mauri, Francesco); Errea, I (Errea, Ion)
-Source: PHYSICAL REVIEW LETTERS  Volume: 125  Issue: 10  Article Number: 106101  DOI: 10.1103/PhysRevLett.125.106101  Published: SEP 1 2020  
-4. Title: Impact of exciton delocalization on exciton-vibration interactions in organic semiconductors
-Author(s): Alvertis, AM (Alvertis, Antonios M.); Pandya, R (Pandya, Raj); Muscarella, LA (Muscarella, Loreta A.); Sawhney, N (Sawhney, Nipun); Nguyen, M (Nguyen, Malgorzata); Ehrler, B (Ehrler, Bruno); Rao, A (Rao, Akshay); Friend, RH (Friend, Richard H.); Chin, AW (Chin, Alex W.); Monserrat, B (Monserrat, Bartomeu)
-Source: PHYSICAL REVIEW B  Volume: 102  Issue: 8  Article Number: 081122  DOI: 10.1103/PhysRevB.102.081122  Published: AUG 31 2020  
-5. Title: First principles modeling of exciton-polaritons in polydiacetylene chains
-Author(s): Alvertis, AM (Alvertis, Antonios M.); Pandya, R (Pandya, Raj); Quarti, C (Quarti, Claudio); Legrand, L (Legrand, Laurent); Barisien, T (Barisien, Thierry); Monserrat, B (Monserrat, Bartomeu); Musser, AJ (Musser, Andrew J.); Rao, A (Rao, Akshay); Chin, AW (Chin, Alex W.); Beljonne, D (Beljonne, David)
-Source: JOURNAL OF CHEMICAL PHYSICS  Volume: 153  Issue: 8  Article Number: 084103  DOI: 10.1063/5.0019009  Published: AUG 28 2020  
-6. Title: Anharmonicity and Doping Melt the Charge Density Wave in Single-Layer TiSe2
-Author(s): Zhou, JQS (Zhou, Jianqiang Sky); Monacelli, L (Monacelli, Lorenzo); Bianco, R (Bianco, Raffaello); Errea, I (Errea, Ion); Mauri, F (Mauri, Francesco); Calandra, M (Calandra, Matteo)
-Source: NANO LETTERS  Volume: 20  Issue: 7  Pages: 4809-4815  DOI: 10.1021/acs.nanolett.0c00597  Published: JUL 8 2020  
+2. [Theory of the thickness dependence of the charge density wave transition in 1 T-TiTe2](link)  
+Zhou, JS; Bianco, R; Monacelli, L; Errea, I; Mauri, F; Calandra, M    
+2D MATERIALS, 7, 4, 045032  
+DOI: 10.1088/2053-1583/abae7a  
+OCT 2020  
+3. [Weak Dimensionality Dependence and Dominant Role of Ionic Fluctuations in the Charge-Density-Wave Transition of NbSe2](link)      
+Bianco, R; Monacelli, L; Calandra, M; Mauri, F; Errea, I    
+PHYSICAL REVIEW LETTERS, 125, 10, 106101  
+DOI: 10.1103/PhysRevLett.125.106101  
+SEP 1 2020  
+4. [Impact of exciton delocalization on exciton-vibration interactions in organic semiconductors](link)    
+Alvertis, AM; Pandya, R; Muscarella, LA; Sawhney, N; Nguyen, M; Ehrler, B; Rao, A; Friend, RH; Chin, AW; Monserrat, B    
+PHYSICAL REVIEW B, 102, 8, 081122  
+DOI: 10.1103/PhysRevB.102.081122  
+AUG 31 2020  
+5. [First principles modeling of exciton-polaritons in polydiacetylene chains](link)    
+Alvertis, AM; Pandya, R; Quarti, C; Legrand, L; Barisien, T; Monserrat, B; Musser, AJ; Rao, A; Chin, AW; Beljonne, D  
+JOURNAL OF CHEMICAL PHYSICS, 153, 8, 084103  
+DOI: 10.1063/5.0019009  
+AUG 28 2020  
+6. [Anharmonicity and Doping Melt the Charge Density Wave in Single-Layer TiSe2](link)  
+Author(s): Zhou, JQS; Monacelli, L; Bianco, R; Errea, I; Mauri, F; Calandra, M  
+NANO LETTERS, 20, 7, 4809-4815  
+DOI: 10.1021/acs.nanolett.0c00597  
+JUL 8 2020  
 
 
 
